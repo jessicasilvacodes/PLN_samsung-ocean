@@ -10,7 +10,7 @@ O objetivo do curso é proporcionar aos alunos o conhecimento da área de Análi
 - Estudo das técnicas de pré-processamento de texto;
 - Estudo das principais métricas de métodos classificadores de texto;
 - Estudo das principais bibliotecas de Python usadas para processamento de texto;
-- Realização de um estudo de caso com programação envolvendo dados reais.7
+- Realização de um estudo de caso com programação envolvendo dados reais.
 
 ### Instrutor: 
 **Tiago Eugenio de Melo**; Professor Pesquisador da Trilha de Assistentes de Voz e Inteligência Artificial em Samsung Ocean, Doutor em Informática pela UFAM, Mestre em Computação pela Unicamp, Especialista em Geoprocessamento e Bacharel em Processamento de Dados pela UFAM e Advogado.
